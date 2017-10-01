@@ -1,0 +1,6 @@
+videoinfo/node_modules/
+todos/node_modules/
+
+.DS_Store
+.env
+npm-debug.log
